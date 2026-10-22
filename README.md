@@ -1,6 +1,10 @@
 <h1 align="center">Welcome To My Github</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tte-tte&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tte-tte?label=Followers&style=flat&color=8b5cf6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/tte-tte?affiliations=OWNER&style=flat&color=f59e0b" alt="Stars" />
+</p>
 
 <div align="center">
 
@@ -8,11 +12,19 @@
 
 </div>
 
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tte-tte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tte-tte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=tte-tte&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</div>
 
-  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tte-tte&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+</div>
+
 ---
 # ⚔️ All Of My Skills
 

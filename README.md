@@ -26,6 +26,19 @@
 </div>
 
 ---
+
+# Featured Projects
+
+<p align="center">
+  <a href="https://github.com/tte-tte/brainwave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tte-tte&repo=brainwave&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="brainwave" /></a>
+  <a href="https://github.com/tte-tte/Dominate-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tte-tte&repo=Dominate-AI&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dominate-AI" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/tte-tte/next-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tte-tte&repo=next-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="next-ecommerce" /></a>
+  <a href="https://github.com/tte-tte/web-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tte-tte&repo=web-cli&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="web-cli" /></a>
+</p>
+
+---
 # ⚔️ All Of My Skills
 
 <div align="center">

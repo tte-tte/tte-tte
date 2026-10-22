@@ -12,32 +12,6 @@
 
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tte-tte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tte-tte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tte-tte&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tte-tte&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
-</div>
-
----
-
-# Featured Projects
-
-<p align="center">
-  <a href="https://github.com/tte-tte/brainwave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tte-tte&repo=brainwave&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="brainwave" /></a>
-  <a href="https://github.com/tte-tte/Dominate-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tte-tte&repo=Dominate-AI&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dominate-AI" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/tte-tte/next-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tte-tte&repo=next-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="next-ecommerce" /></a>
-  <a href="https://github.com/tte-tte/web-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tte-tte&repo=web-cli&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="web-cli" /></a>
-</p>
-
 ---
 # ⚔️ All Of My Skills
 

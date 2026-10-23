@@ -1,4 +1,5 @@
 <h1 align="center">Welcome To My Github</h1>
+<p align="center">Software engineering · AI · collaboration</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tte-tte&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" />
